@@ -58,6 +58,7 @@
 ## 📦 Atualizações
 
 O plugin verifica automaticamente se há uma nova versão disponível. Se houver, o usuário será alertado e poderá optar por continuar ou fechar o plugin.
+
 Clique sobre a versão para ser direcionado ao repositório do GitHub.
 
 ---
