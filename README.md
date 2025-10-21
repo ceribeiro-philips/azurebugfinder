@@ -1,6 +1,6 @@
 # 🐞 Azure Bug Finder
 
-**Azure Bug Finder** é uma extensão para Chrome desenvolvida para facilitar a consulta de bugs no Azure DevOps, com filtros avançados, exportação para Excel e suporte a múltiplas plataformas Tasy.
+**Azure Bug Finder** é uma extensão para desenvolvida para facilitar a consulta de bugs no Azure DevOps, com filtros avançados, exportação para Excel e suporte a múltiplas plataformas Tasy.
 
 ---
 
@@ -61,7 +61,7 @@ O plugin verifica automaticamente se há uma nova versão disponível. Se houver
 
 ## 🧪 Requisitos
 
-- Navegador Chrome
+- Navegador Chrome ou Edge
 - Acesso ao Azure DevOps com token PAT válido
 - Permissões para consultar Work Items no projeto EMR
 
