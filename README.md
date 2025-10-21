@@ -10,7 +10,7 @@
 
 Veja como instalar o Azure Bug Finder:
 
-▶️ [Assistir vídeo tutorial](videos/demonstracao.mp4)
+https://github.com/user-attachments/assets/8ad06e8b-25a1-49cb-8f2c-d904d16cdbb1
 
 ---
 
