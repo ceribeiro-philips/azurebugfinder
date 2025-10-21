@@ -6,6 +6,14 @@
 
 ---
 
+## 🎥 Demonstração
+
+Veja como instalar e usar o Azure Bug Finder:
+
+▶️ [Assistir vídeo tutorial](media/tutorial.mp4)
+
+---
+
 ## 🚀 Funcionalidades
 
 - 🔍 Consulta rápida de bugs por versão e aplicação
