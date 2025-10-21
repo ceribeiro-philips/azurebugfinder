@@ -29,10 +29,7 @@ Após a instalação, é necessário inserir seu **token PAT** para que o plugin
 
 <div align="center">
   <img width="485" height="385" alt="Tela de configuração do token PAT" src="https://github.com/user-attachments/assets/53a32966-da97-4566-a33c-c038a0e3f135" />
-" />
 </div>
-
-> *Tela de configuração do token PAT no Azure Bug Finder*
 
 ---
 
