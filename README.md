@@ -1,6 +1,7 @@
 # 🐞 Azure Bug Finder
 
 **Azure Bug Finder** é uma extensão para desenvolvida para facilitar a consulta de bugs no Azure DevOps, com filtros avançados, exportação para Excel e suporte a múltiplas plataformas Tasy.
+📌 Veja o [Changelog completo](CHANGELOG.md)
 
 ---
 
