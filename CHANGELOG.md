@@ -11,6 +11,9 @@
 - 🧹 Remoção segura de eventos e modais obsoletos para evitar erros de execução
 - 🔗 Estilização do número da versão como hiperlink visível (azul, sublinhado, cursor de mão)
 - 📄 Criação do arquivo `CHANGELOG.md` para histórico de versões separado do `README.md`
+- ⛔ Bloqueio do botão **Consultar** caso já haja uma consulta em processamento
+- 🔗 Link direto para o **PTASK** nos resultados da consulta
+- 🔗 Link direto para o **BUG** nos resultados da consulta
 
 ---
 
