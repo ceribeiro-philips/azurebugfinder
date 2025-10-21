@@ -10,13 +10,32 @@
 
 ---
 
-## 🎥 Demonstração
+## 📦 Instalação
 
-Veja como instalar o Azure Bug Finder:
+Para instalar o plugin, siga o vídeo abaixo:
 
-https://github.com/user-attachments/assets/b0dc151c-0dc2-4dbf-ba82-333e025359fd
+🔗 [Assistir vídeo tutorial](https://github.com/user-attachments/assets/b0dc151c-0dc2-4dbf-ba82-333e025359fd)
+
+
+## 🔐 Configuração do Token PAT
+
+Após a instalação, é necessário inserir seu **token PAT** para que o plugin possa validar suas permissões e autorizar as consultas ao Azure DevOps.
+
+### ✅ Passo a passo:
+
+1. Clique no ícone de **engrenagem** no canto inferior esquerdo do plugin
+2. Insira seu token na tela exibida
+3. Clique em **Salvar Token** para ativar o acesso
+
+<div align="center">
+  <img width="485" height="385" alt="Tela de configuração do token PAT" src="https://github.com/user-attachments/assets/53a32966-da97-4566-a33c-c038a0e3f135" />
+" />
+</div>
+
+> *Tela de configuração do token PAT no Azure Bug Finder*
 
 ---
+
 
 ## 🚀 Funcionalidades
 
