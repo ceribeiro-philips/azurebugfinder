@@ -66,7 +66,7 @@ Clique sobre a versão para ser direcionado ao repositório do GitHub.
 ## 🧪 Requisitos
 
 - Navegador Chrome ou Edge
-- Acesso ao Azure DevOps com token PAT válido
+- Acesso ao Azure DevOps-EMR com token PAT válido
 - Permissões para consultar Work Items no projeto EMR
 
 ---
