@@ -8,9 +8,9 @@
 
 ## 🎥 Demonstração
 
-Veja como instalar e usar o Azure Bug Finder:
+Veja como instalar o Azure Bug Finder:
 
-▶️ [Assistir vídeo tutorial](media/tutorial.mp4)
+▶️ [Assistir vídeo tutorial](videos/demonstracao.mp4)
 
 ---
 
