@@ -37,14 +37,12 @@ Após a instalação, é necessário inserir seu **token PAT** para que o plugin
 ## 🚀 Funcionalidades
 
 - 🔍 Consulta rápida de bugs por versão e aplicação
-- 🧠 Filtros avançados dinâmicos (Customer, Function, Problem Task, etc.)
+- 🧠 Filtros avançados dinâmicos (Customer, Function, Problem Task)
 - 📦 Exportação dos resultados para Excel
 - 🕵️‍♂️ Suporte a busca por service packs 
 - 🧩 Busca plataformas Tasy HTML5, Java e Delphi
 - 🛡️ Validação automática do token PAT
 - 🌙 Tema escuro com persistência
-- 📌 Histórico de versões buscadas
-- 📋 Menu de copiar resultado com clique direito
 - 🔄 Verificação automática de versão do plugin (com alerta de atualização)
 
 ---
@@ -57,21 +55,6 @@ Após a instalação, é necessário inserir seu **token PAT** para que o plugin
 4. (Opcional) Adicione filtros avançados clicando em "Filtro Avançado".
 5. Clique em **Consultar** para buscar os bugs.
 6. Clique em **Exportar** para salvar os resultados em Excel.
-
----
-
-## 📁 Estrutura dos arquivos
-
-| Arquivo             | Função principal                          |
-|---------------------|-------------------------------------------|
-| `consulta.js`       | Lógica de consulta WIQL e tratamento dos dados |
-| `filtros.js`        | Filtros dinâmicos e persistência local    |
-| `modalPat.js`       | Configuração e validação do token PAT     |
-| `autocomplete.js`   | Autocompletar campos de filtro            |
-| `exportacao.js`     | Exportação dos dados para Excel           |
-| `ui.js`             | Comportamento visual e interações         |
-| `background.js`     | Verificação de versão                     |
-| `main.js`           | Inicialização e controle da interface     |
 
 ---
 
