@@ -3,8 +3,9 @@
 **Azure Bug Finder** é uma extensão para facilitar a consulta de bugs no Azure DevOps, com filtros avançados e exportação para Excel.
 
 <div align="center">
-  <img width="485" height="385" alt="Tela principal do plugin" src="https://github.com/user-attachments/assets/3cac043a-0217-470e-8b42-cf6a6681360c" />
+  <img width="489" height="388" alt="image" src="https://github.com/user-attachments/assets/29a04a9f-7a72-4eed-8cf9-9a41eddb4c85" />
 </div>
+
 
 📌 Veja o [Changelog completo](CHANGELOG.md)
 
