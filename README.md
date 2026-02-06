@@ -3,11 +3,8 @@
 **Azure Bug Finder** é uma extensão para facilitar a consulta de bugs no Azure DevOps, com filtros avançados e exportação para Excel.
 
 <div align="center">
-  <img width="489" height="388" alt="image" src="https://github.com/user-attachments/assets/29a04a9f-7a72-4eed-8cf9-9a41eddb4c85" />
+  <img width="481" height="384" alt="image" src="https://github.com/user-attachments/assets/23f64f96-820e-47de-9db5-82156c06d226" />
 </div>
-
-
-📌 Veja o [Changelog completo](CHANGELOG.md)
 
 ---
 
@@ -34,7 +31,6 @@ Após a instalação, é necessário inserir seu **token PAT** para que o plugin
 
 ---
 
-
 ## 🚀 Funcionalidades
 
 - 🔍 Consulta rápida de bugs por versão e aplicação
@@ -45,6 +41,7 @@ Após a instalação, é necessário inserir seu **token PAT** para que o plugin
 - 🛡️ Validação automática do token PAT
 - 🌙 Tema escuro com persistência
 - 🔄 Verificação automática de versão do plugin (com alerta de atualização)
+- 📦 Entre outras...
 
 ---
 
@@ -55,23 +52,6 @@ Após a instalação, é necessário inserir seu **token PAT** para que o plugin
 3. (Opcional) Ative a busca por versões superiores (SP).
 4. (Opcional) Adicione filtros avançados clicando em "Filtro Avançado".
 5. Clique em **Consultar** para buscar os bugs.
-6. Clique em **Exportar** para salvar os resultados em Excel.
-
----
-
-## 🔒 Segurança
-
-- O plugin **não armazena dados sensíveis** fora do navegador.
-- O token PAT é salvo localmente via `chrome.storage.local`.
-- A verificação de versão é feita via arquivo público no GitHub, sem expor credenciais.
-
----
-
-## 📦 Atualizações
-
-O plugin verifica automaticamente se há uma nova versão disponível. Se houver, o usuário será alertado e poderá optar por continuar ou fechar o plugin.
-
-Clique sobre a versão para ser direcionado ao repositório do GitHub.
 
 ---
 
